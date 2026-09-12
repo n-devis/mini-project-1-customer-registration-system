@@ -22,3 +22,7 @@ Then it displays information in a clear format.
 - Print Statements
 
 Created by Theo as part of my python learning journey.
+
+## Current Progress
+
+This project is being developed while learning python and business automation.
