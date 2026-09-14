@@ -26,3 +26,11 @@ Created by Theo as part of my python learning journey.
 ## Current Progress
 
 This project is being developed while learning python and business automation.
+
+## Current Learning Progress
+
+- Python fundamentals completed
+- File handling completed
+- JSON completed
+- Git and GitHub workflow started
+
